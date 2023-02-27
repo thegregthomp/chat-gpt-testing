@@ -6,6 +6,15 @@ export default function Index() {
         <li>
           <a
             target="_blank"
+            href="https://www.youtube.com/watch?v=0KybpKRTyK0"
+            rel="noreferrer"
+          >
+            10h of Oh My Dayum
+          </a>
+        </li>
+        <li>
+          <a
+            target="_blank"
             href="https://remix.run/tutorials/blog"
             rel="noreferrer"
           >
